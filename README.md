@@ -4,7 +4,7 @@
 Proxy sites are the easiest methods to bypass the block. Pirate Proxy List maintains a list of proxy sites that allow access to The Pirate Bay. Since 2011 ISPs in the UK, Netherland, Belgium and now France have been blocking many file sharing websites including The PirateBay. However their efforts seem to be counterproductive as Torrenting and other file sharing traffic is not decreasing. This is due to the help of information websites such as Torrent Proxy Portals that provide an up to date proxy list for ThePirateBay (TPB), and further information on how to avoid censorship using alternate methods. We periodically check our Pirate Bay proxy list against several major ISPs around Europe to make sure they have not been blocked.
 
 
-## Pirate Bay Proxy List
+<a href="https://www.biztechpost.com/the-pirate-bay-proxy-and-tpb-mirror-sites/">Pirate Bay Proxy List</a>
 
 Can't access The Pirate Bay? Try one of the proxy sites below. A proxy site allows you to bypass blocks setup by your Internet provider.
 
